@@ -1,0 +1,15 @@
+body {
+    width: 300px;
+    height: 300 px;
+    background-color: aqua;
+    text-align: center;
+    font-style: gold;
+    display: flex;
+}
+
+p {
+    display: inner-flex;
+    margin: auto;
+    font-size: 20px;
+    color: rgb(209, 154, 72);
+}
